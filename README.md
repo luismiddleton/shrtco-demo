@@ -17,7 +17,7 @@ nvm use
 
 ### NPM
 
-`6.14.8`
+`8.1.0`
 
 ## Available Scripts
 
